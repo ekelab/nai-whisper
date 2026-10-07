@@ -43,7 +43,8 @@ same time.
 ## 1. Accuracy on the test sets
 
 WER and CER, %, summed over each set; the sets are described in
-[TEST-SETS.md](TEST-SETS.md). 
+[TEST-SETS.md](TEST-SETS.md).
+
 "Original" is Whisper large-v3-turbo as
 published (16-bit weights, computed in 32-bit floats, the full 30 s
 window).
